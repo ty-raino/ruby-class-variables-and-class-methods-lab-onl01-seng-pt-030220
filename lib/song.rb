@@ -1,7 +1,4 @@
 class Song
-  # @@song_count = 0
-  # @@genre_count = 0
-  # @@artist_count = 0
   @@count = 0
   @@genre = []
   @@artist = []
